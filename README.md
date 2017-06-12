@@ -1,0 +1,1 @@
+These exercises are .js files named according to their chapter number and title on http://eloquentjavascript.net/.
